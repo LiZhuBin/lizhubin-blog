@@ -21,6 +21,13 @@
 	"content": " 建立文件目录 每个目录中都应该有_index.md文件 用于显示该目录下文件的说明\n建立普通文件 hugo new (地址/文件名).md  建立目录文件 hugo new --kind chapter (地址/文件名).md  会生成相应的默认数据\ntitle = \u0026quot;建立文件目录\u0026quot; date = 2019-04-28T13:22:24+08:00 weight = 2 chapter = true  其中weight 表示目录的排列顺序 （越小越排前）\n"
 },
 {
+	"uri": "https://lizhubin.github.io/buildsite/hugo/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E8%84%9A%E6%9C%AC/",
+	"title": "自动部署脚本",
+	"tags": [],
+	"description": "",
+	"content": " 自动部署脚本 #!/bin/bash if [ $# -lt 1 ]; then echo \u0026quot;$0 \u0026lt;commit message\u0026gt;\u0026quot; exit 1 fi msg=\u0026quot;$1\u0026quot; git commit -m \u0026quot;$msg\u0026quot; if [ $? -ne 0 ]; then echo \u0026quot;Commit failed\u0026quot; exit 1 fi git push origin master if [ $? -ne 0 ]; then echo \u0026quot;Push failed\u0026quot; fi echo -e \u0026quot;\\033[0;32mDeploying updates to GitHub...\\033[0m\u0026quot; # Build the project. hugo # if using a theme, replace with `hugo -t \u0026lt;YOURTHEME\u0026gt;` # Go To Public folder cd public # Add changes to git. git add . # Commit changes. git commit -m \u0026quot;$msg\u0026quot; # Push source and build repos. git push origin master # Come Back up to the Project Root cd ..  Lorem Ipsum.\n"
+},
+{
 	"uri": "https://lizhubin.github.io/buildsite/hugo/%E9%83%A8%E7%BD%B2%E5%88%B0github/",
 	"title": "部署到github",
 	"tags": [],
