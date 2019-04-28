@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="868d7e93-ae87-4485-8561-20c7805eb6d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/.github/ISSUE_TEMPLATE/theme-submission.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/.github/stale.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/AllinOne" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/BeyondNothing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Binario" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/KeepIt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/LeaveIt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Midnight" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Niello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Shapez-Theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/_script/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/_script/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/_script/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/_script/generateThemeSite.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aafu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aerial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aether" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/agency" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/air" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/airspace-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ajonp-hugo-ionic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/allegiant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/alpha-church" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/amp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/angels-ladder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anybodyhome" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/arabica" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/artists" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/athena-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aurora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/base16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/basics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/beautifulhugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/beg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bilberry-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/black-and-light" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/blackburn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/blank" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bleach-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootie-docs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bootstrap-bp-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/buildThemeSite.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bulma" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cactus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/capsule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/casper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/castanet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cayman-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/charaka-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/classless-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/co-op" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cocoa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cocoa-eh-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/crab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/creative" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cupper-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/darksimplicity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/detox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/devfest-theme-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/docdock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/docuapi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/dot-hugo-documentation-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/elephants" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/engimo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/er" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ezhil" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/forty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/foundation-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/freelancer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/future-imperfect" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ghostwriter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gindoro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/github-project-landing-page" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gochowdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-amp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-yinwang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/grid-side" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hallo-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/heather-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hermit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/herring-cove" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hestia-pure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/highlights" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hikari" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hpstr-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/html5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-alabaster-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-alageek-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-apps-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-appyness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-assembly" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-bare-min-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-base-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-bingo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-blog-jeffprod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-book" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-bootstrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-bootstrap-premium" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-bootswatch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-cards" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-casper-two" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-changelog-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-classic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-code-editor-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-coder" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-coder-portfolio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-conference" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-darkdoc-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-dgraph-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-dream-plus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-dusk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-dusky-neon-potato" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-elate-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-fabric" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-faq-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-finite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-flex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-frais" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-fresh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-future-imperfect-slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-gentoo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-geo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-goa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-grapes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-h5bp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-hello-programmer-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-hero-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-icarus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-icon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-identity-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-initio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-kiera" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-lamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-lime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-lithium-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-lodi-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-luxury-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-material-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-minimalist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-minimalist-spa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-mondrian-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-multi-bootswatch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-myportfolio-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-natrium-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-nederburg-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-nes-classic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-now" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-now-ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-nuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-octopress" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-oldnew-mashup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-orbit-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-pacman-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-paper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-phlat-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-piercer-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-plus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-primer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-remark-minion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-remark-twemoji" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-resume" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-serif-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-shopping-product-catalogue-simple" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-simpledoc-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-sodium-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-split-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-starter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-startpage-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-stellar-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-sustain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-swift-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-terrassa-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-arch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-basic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-bootstrap4-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-cactus-plus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-cleanwhite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-den" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-dopetrope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-dream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-even" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-hamburg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-hello-friend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-hello-friend-ng" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-introduction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-jane" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-lean-launch-page" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-learn" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-learn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-m10c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-massively" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-minos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-nix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-one" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-revealjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-robotico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-rusty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-sam" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-sky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-techdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-techlog-simple" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-terminal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-vec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-w3css-basic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-wave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-winning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-yinyang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-yuki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-zen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-zozo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-tikva" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-tracks-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-tranquilpeak-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-travelify-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-uilite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-universal-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-uno" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-w3-simple" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-whisper-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-xmag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-xmin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-zen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo_eiio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo_theme_adam_eve" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo_theme_pickles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugograyscale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugoscroll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugotube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugrid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hurock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hyde-hyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hyde-y" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/indigo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/infinity-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/internet-weblog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/kiss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/kraiklyn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/kube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landing-page-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lanyon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/light-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liquorice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mainroad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/manis-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/martial-paper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/material-design" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mediumish-gohugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mero" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/min_night" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/minimage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/minimal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/minimal-bootstrap-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/netlify.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/newsprint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nixon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nofancy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/onepress" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/onetwothree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/osprey" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/paperback" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/papercss-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/persona" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/phugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pixyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/plain-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/polymer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/potato-dark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pristine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/projecthub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/prologue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pulp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/purehugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/redlounge" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/restaurant-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/retrofulhugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/reveal-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/rocktopus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/sada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/saito-boilerplate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/shiori" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/silhouette-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simple-a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simple-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simpleblox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simpleit-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simplicity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/slate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/slick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/sofya" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/spectrum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/startbootstrap-clean-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/steam" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/stip-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/story" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/strange-case" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/strata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/sublime-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tachyons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tale-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/temple" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/timer-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/twentyfourteen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/type" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vanilla-bootstrap-hugo-theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vex-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vienna" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vncnt-hugo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/whiteplain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/would-have-been-cool-in-the-80s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yourfolio" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/others/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/侧边框添加个人信息.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/安装.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/建立博客.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="551">
+                <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/pythonBase/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="247">
+                <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/个人邮件.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="228">
+                <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/content/pythonBase/bug/_index.md" />
+        <option value="$PROJECT_DIR$/content/pythonBase/knowledge/_index.md" />
+        <option value="$PROJECT_DIR$/content/pythonBase/knowledge/__Init__的使用与包管理心得.md" />
+        <option value="$PROJECT_DIR$/content/buildSite/_index.md" />
+        <option value="$PROJECT_DIR$/content/buildSite/hugo/install.md" />
+        <option value="$PROJECT_DIR$/content/buildSite/hugo/baseBuild.md" />
+        <option value="$PROJECT_DIR$/content/buildSite/hugo/侧边框添加个人信息" />
+        <option value="$PROJECT_DIR$/content/private/个人邮件.md" />
+        <option value="$PROJECT_DIR$/content/pythonBase/_index.md" />
+        <option value="$PROJECT_DIR$/content/others/_index.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/buildSite/hugo/侧边框添加个人信息.md" />
+        <option value="$PROJECT_DIR$/content/buildSite/hugo/_index.md" />
+        <option value="$PROJECT_DIR$/content/buildSite/hugo/安装.md" />
+        <option value="$PROJECT_DIR$/content/buildSite/hugo/建立博客.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="482" />
+    <option name="y" value="302" />
+    <option name="width" value="1348" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="buildSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="buildSite" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\QQPCmgr\Desktop\mysite\content" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\QQPCmgr\Desktop\mysite\content" />
+      <recent name="E:\QQPCmgr\Desktop\mysite\content\pythonBase\knowledge" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="868d7e93-ae87-4485-8561-20c7805eb6d2" name="Default Changelist" comment="" />
+      <created>1556423345334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556423345334</updated>
+      <workItem from="1556423359802" duration="9430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9430000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/content/pythonBase/knowledge/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pythonBase/knowledge/__init__的使用与包管理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pythonBase/knowledge/__Init__的使用与包管理心得.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pythonBase/bug/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/侧边框添加个人信息">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/个人邮件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pythonBase/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/侧边框添加个人信息.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/建立博客.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="551">
+            <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/others/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
