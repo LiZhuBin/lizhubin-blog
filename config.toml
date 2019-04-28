@@ -8,7 +8,7 @@ publishDir = "docs"
 MetaDataFormat = "yaml"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
-echo "/public" > .gitignore
+
 
 
 # more
