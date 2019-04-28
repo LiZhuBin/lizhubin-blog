@@ -5,95 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="868d7e93-ae87-4485-8561-20c7805eb6d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/atom-one-dark-reasonable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/auto-complete.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/featherlight.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/fontawesome-all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/hugo-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/hybrid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/nucleus.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/perfect-scrollbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/tags.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/theme-blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/theme-green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/theme-red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Inconsolata.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Inconsolata.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Inconsolata.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Inconsolata.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-Normal-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-Normal-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-Normal-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-Normal-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-Normal-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-UltraLight-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-UltraLight-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-UltraLight-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-UltraLight-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Novecentosanswide-UltraLight-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_200.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_200.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_200.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_200.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_200.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_300.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_300.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_300.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_300.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_300.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_500.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_500.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_500.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_500.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/Work_Sans_500.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/clippy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gopher-404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/auto-complete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/clipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/featherlight.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/highlight.pack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/html5shiv-printshiv.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/hugo-learn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.sticky.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/learn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/lunr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/modernizr.custom-3.6.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/perfect-scrollbar.jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/perfect-scrollbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mermaid/mermaid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mermaid/mermaid.dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mermaid/mermaid.forest.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mermaid/mermaid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webfonts/fa-solid-900.woff2" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,24 +25,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitmodules">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/pythonBase/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="190">
                 <caret line="10" selection-start-line="10" selection-end-line="10" />
               </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/buildSite/_index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -343,7 +252,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556423345334</updated>
       <workItem from="1556423359802" duration="15089000" />
-      <workItem from="1556448776006" duration="840000" />
+      <workItem from="1556448776006" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="基本完成hugo模块">
       <created>1556436118945</created>
@@ -394,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556450576534</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加自动部署脚本">
+      <created>1556451309703</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556451309703</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15929000" />
+    <option name="totallyTimeSpent" value="16173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -418,7 +334,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -552,6 +468,13 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
