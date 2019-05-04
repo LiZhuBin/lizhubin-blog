@@ -6,7 +6,7 @@
     <description>Recent content on LiZhuBin的个人技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2019 18:30:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 23:51:35 +0800</lastBuildDate>
     
 	<atom:link href="https://lizhubin.github.io/lizhubin-blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +39,18 @@
       <description>建立文件目录 每个目录中都应该有_index.md文件 用于显示该目录下文件的说明
 建立普通文件 hugo new (地址/文件名).md  建立目录文件 hugo new --kind chapter (地址/文件名).md  会生成相应的默认数据
 title = &amp;quot;建立文件目录&amp;quot; date = 2019-04-28T13:22:24+08:00 weight = 2 chapter = true  其中weight 表示目录的排列顺序 （越小越排前）</description>
+    </item>
+    
+    <item>
+      <title>使用七牛云实现图片上传</title>
+      <link>https://lizhubin.github.io/lizhubin-blog/others/%E4%BD%BF%E7%94%A8%E4%B8%83%E7%89%9B%E4%BA%91%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/</link>
+      <pubDate>Sat, 04 May 2019 23:51:35 +0800</pubDate>
+      
+      <guid>https://lizhubin.github.io/lizhubin-blog/others/%E4%BD%BF%E7%94%A8%E4%B8%83%E7%89%9B%E4%BA%91%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/</guid>
+      <description>Chapter X 使用七牛云实现图片上传  markdown的图上上传是一个困扰作者很久的问题，图片放在本地又会使资源增大， 变得复杂；放于网络又困于没有方便的方法，总不能租个服务器去配置图片环境吧， 七牛云就可以较好得解决这个问题
+申请云空间 https://www.qiniu.com 上七牛云网，点击左侧左侧菜单 对象存储，一开始我们需要新建一个存储空间来存放我们的图片资源。点击新建存储空间
+ 上传文件 点击内容管理选项，可以看到我们的图片资源列表。点击上传文件，在新页面上传图片即可 获得外链 ！[](http://pqzllubto.bkt.clouddn.com/TIM%E6%88%AA%E5%9B%BE20190505000155.png)
+Lorem Ipsum.</description>
     </item>
     
     <item>
@@ -81,8 +93,12 @@ def fun(a): print(a)  </description>
       <pubDate>Sun, 28 Apr 2019 15:13:41 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/buildsite/hugo/%E9%83%A8%E7%BD%B2%E5%88%B0github/</guid>
-      <description> 部署到github 配置git 用户 git config --global user.name &amp;quot;(NAME)&amp;quot; git config --global user.email &#39;(EMAIL)&#39;  创建 ssk ssh-keygen -t rsa -C &amp;quot;(EMAIL)&amp;quot;  关联 将ssh/id_rsa 加到github 上 remote
-git remote add origin git@....git  上传 git add . git commit -m &#39;(tag)&#39; git push -u origin master  </description>
+      <description>部署到github 配置git 用户 git config --global user.name &amp;quot;(NAME)&amp;quot; git config --global user.email &#39;(EMAIL)&#39;  创建 ssk ssh-keygen -t rsa -C &amp;quot;(EMAIL)&amp;quot;  关联 将ssh/id_rsa 加到github 上 remote
+git remote add origin git@....git  上传 git add . git commit -m &#39;(tag)&#39; git push -u origin master  注意 远程库不能命名为[(你的名字)/库名]，否则打开github.io时只会出现index.html/README.md的内容，真正的位置在你生成的静态文件中（默认public,推荐docs目录）
+正确做法： 在config.toml中加入
+publiddir = &amp;quot;docs&amp;quot;  接着删除public目录，运行hugo命令
+传文件后 到github库位置的setting找到github pages，把master改成master/src
+&amp;gt; 保证输入网址时显示的是该文件下生成的docs下的静态文件</description>
     </item>
     
     <item>
@@ -105,6 +121,15 @@ git remote add origin git@....git  上传 git add . git commit -m &#39;(tag)&#39
 name : 显示文字
 identifier: 唯一标志 url ： 链接（本地或网络）
 [[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot; identifier = &amp;quot;ds&amp;quot; url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot; weight = 10  ## Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>建立博客踩的坑</title>
+      <link>https://lizhubin.github.io/lizhubin-blog/buildsite/hugo/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</link>
+      <pubDate>Sat, 04 May 2019 19:24:03 +0800</pubDate>
+      
+      <guid>https://lizhubin.github.io/lizhubin-blog/buildsite/hugo/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
     </item>
     
   </channel>
