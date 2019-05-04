@@ -4,7 +4,7 @@ title = "LiZhuBin的个人技术博客"
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 # For search functionality
-
+publishDir = "/docs"
 # more
 
 #github
