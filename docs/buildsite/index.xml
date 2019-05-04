@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>建立博客 on LiZhuBin的个人技术博客</title>
-    <link>https://lizhubin.github.io/buildsite/</link>
+    <link>https://lizhubin.github.io/lizhubin-blog/buildsite/</link>
     <description>Recent content in 建立博客 on LiZhuBin的个人技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2019 12:46:20 +0800</lastBuildDate>
     
-	<atom:link href="https://lizhubin.github.io/buildsite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lizhubin.github.io/lizhubin-blog/buildsite/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
