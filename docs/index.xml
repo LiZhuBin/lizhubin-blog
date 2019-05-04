@@ -42,6 +42,17 @@ title = &amp;quot;建立文件目录&amp;quot; date = 2019-04-28T13:22:24+08:00 
     </item>
     
     <item>
+      <title>MegerConflict</title>
+      <link>https://lizhubin.github.io/git/megerconflict/</link>
+      <pubDate>Sat, 04 May 2019 18:30:41 +0800</pubDate>
+      
+      <guid>https://lizhubin.github.io/git/megerconflict/</guid>
+      <description>Chapter X MegerConflict hint: Updates were rejected because the tip of your current branch is behind hint: its remote counterpart. Integrate the remote changes (e.g. hint: &amp;lsquo;git pull &amp;hellip;&amp;rsquo;) before pushing again. hint: See the &amp;lsquo;Note about fast-forwards&amp;rsquo; in &amp;lsquo;git push &amp;ndash;help&amp;rsquo; for details.
+解决 勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。
+git push -u origin master -f  Lorem Ipsum.</description>
+    </item>
+    
+    <item>
       <title>值得注意的markdown语法</title>
       <link>https://lizhubin.github.io/others/markdown%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Mon, 29 Apr 2019 19:11:05 +0800</pubDate>
