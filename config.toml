@@ -1,4 +1,4 @@
-baseURL                   = "https://lizhubin.github.io/"
+baseURL                   = "https://lizhubin.github.io/lizhubin-blog/"
 builddrafts                = false
 languageCode               = "zn-Hans"
 canonifyurls               = true

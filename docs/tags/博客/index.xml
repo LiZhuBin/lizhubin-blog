@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on Orianna</title>
-    <link>https://lizhubin.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://lizhubin.github.io/lizhubin-blog/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Sat, 04 May 2019 19:24:03 +0800</lastBuildDate>
     
-	<atom:link href="https://lizhubin.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lizhubin.github.io/lizhubin-blog/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>侧边框添加个人信息</title>
-      <link>https://lizhubin.github.io/blog/2019-04/%E4%BE%A7%E8%BE%B9%E6%A1%86%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/</link>
+      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E4%BE%A7%E8%BE%B9%E6%A1%86%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/</link>
       <pubDate>Sun, 28 Apr 2019 13:46:55 +0800</pubDate>
       
-      <guid>https://lizhubin.github.io/blog/2019-04/%E4%BE%A7%E8%BE%B9%E6%A1%86%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/</guid>
+      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E4%BE%A7%E8%BE%B9%E6%A1%86%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/</guid>
       <description>侧边框添加个人信息 操作一 将要隐藏的，不显示在侧边框的文件放在content根目录下 操作二 在 config.toml 中添加个人信息 name : 显示文字 identifier: 唯一标志 url ： 链接（本地或网络） [[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot; identifier = &amp;quot;ds&amp;quot; url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot; weight = 10 ## Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>建立博客踩的坑</title>
-      <link>https://lizhubin.github.io/blog/2019-05/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</link>
+      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</link>
       <pubDate>Sat, 04 May 2019 19:24:03 +0800</pubDate>
       
-      <guid>https://lizhubin.github.io/blog/2019-05/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</guid>
+      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</guid>
       <description>Some Chapter title Lorem Ipsum.</description>
     </item>
     
