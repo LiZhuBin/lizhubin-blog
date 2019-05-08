@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bug on Orianna</title>
+    <title>bug on 李主彬的个人技术博客</title>
     <link>https://lizhubin.github.io/lizhubin-blog/tags/bug/</link>
-    <description>Recent content in bug on Orianna</description>
+    <description>Recent content in bug on 李主彬的个人技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 04 May 2019 19:24:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 15:10:59 +0800</lastBuildDate>
     
 	<atom:link href="https://lizhubin.github.io/lizhubin-blog/tags/bug/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>建立博客踩的坑</title>
-      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</link>
-      <pubDate>Sat, 04 May 2019 19:24:03 +0800</pubDate>
+      <title>AddBug</title>
+      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/addbug/</link>
+      <pubDate>Wed, 08 May 2019 15:10:59 +0800</pubDate>
       
-      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</guid>
-      <description>Some Chapter title Lorem Ipsum.</description>
+      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/addbug/</guid>
+      <description>运行git add时出现的问题 问题 warning: LF will be replaced by CRLF in .idea/workspace.xml. The file will have its original line endings in your working directory 原因 Windows中使用CRLF标识一行的结束，而在Linux/UNIX系统中只使用LF标识一行的结束。CRLF即Carriage-Return Line-Feed的缩写。 通常情况下，Git库不会自动修改文件内容，但是默认会将入库的文件的行尾符设置为LF，会将检出的文件的行尾符设置为CRLF。 说明：工作目录中的mywebdav</description>
+    </item>
+    
+    <item>
+      <title>git push 出现的问题</title>
+      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/git-push-%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Sat, 04 May 2019 18:30:41 +0800</pubDate>
+      
+      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/git-push-%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>MegerConflict 问题 hint: Updates were rejected because the tip of your current branch is behind hint: its remote counterpart. Integrate the remote changes (e.g. hint: &amp;lsquo;git pull &amp;hellip;&amp;rsquo;) before pushing again. hint: See the &amp;lsquo;Note about fast-forwards&amp;rsquo; in &amp;lsquo;git push &amp;ndash;help&amp;rsquo; for details. 解决 勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。 git push -u origin master -f 问题 Your local changes to the following files would be overwritten by merge: protected/config/main.php Please, commit your changes or stash them before you can merge. 原因 如果系统中有一些配置文件在服务器上做了配置修改,然后后续开发又新添加一些配置项的时候, 在发布这个配置文件的时候,会发生代码冲突: 解决 git reset --hard git pull</description>
     </item>
     
   </channel>

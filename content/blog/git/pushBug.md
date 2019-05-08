@@ -1,9 +1,10 @@
 +++
 title = "git push 出现的问题"
 date = 2019-05-04T18:30:41+08:00
-weight = 5
+weight = 10
 chapter = true
-
+tags =  ["bug","git"]
+categories =  ["git"]
 +++
 
 

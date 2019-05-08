@@ -6,10 +6,19 @@
     <description>Recent content in Categories on 李主彬的个人技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sun, 28 Apr 2019 15:53:41 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 15:10:59 +0800</lastBuildDate>
     
 	<atom:link href="https://lizhubin.github.io/lizhubin-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>git</title>
+      <link>https://lizhubin.github.io/lizhubin-blog/categories/git/</link>
+      <pubDate>Wed, 08 May 2019 15:10:59 +0800</pubDate>
+      
+      <guid>https://lizhubin.github.io/lizhubin-blog/categories/git/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 28 Apr 2019 15:53:41 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://lizhubin.github.io/lizhubin-blog/categories/test/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>https://lizhubin.github.io/lizhubin-blog/categories/test/</guid>
       <description></description>
     </item>
     

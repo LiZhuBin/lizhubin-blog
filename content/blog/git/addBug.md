@@ -1,7 +1,8 @@
 +++
 title = "AddBug"
 date = 2019-05-08T15:10:59+08:00
-draft = true
+chapter = true
+weight = 5
 tags =  ["bug","git"]
 categories =  ["git"]
 +++
