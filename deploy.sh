@@ -21,4 +21,4 @@ git add .
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin master -f
