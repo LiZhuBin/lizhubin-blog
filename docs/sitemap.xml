@@ -91,13 +91,13 @@
   </url>
   
   <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/categories/git/</loc>
+    <loc>https://lizhubin.github.io/lizhubin-blog/tags/git/</loc>
     <lastmod>2019-05-08T15:10:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/tags/git/</loc>
+    <loc>https://lizhubin.github.io/lizhubin-blog/categories/git/</loc>
     <lastmod>2019-05-08T15:10:59+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -109,25 +109,25 @@
   </url>
   
   <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/categories/markdown/</loc>
-    <lastmod>2019-05-04T23:51:35+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/tags/markdown/</loc>
     <lastmod>2019-05-04T23:51:35+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/categories/hugo/</loc>
-    <lastmod>2019-04-28T15:53:41+08:00</lastmod>
+    <loc>https://lizhubin.github.io/lizhubin-blog/categories/markdown/</loc>
+    <lastmod>2019-05-04T23:51:35+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/tags/hugo/</loc>
+    <lastmod>2019-04-28T15:53:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lizhubin.github.io/lizhubin-blog/categories/hugo/</loc>
     <lastmod>2019-04-28T15:53:41+08:00</lastmod>
     <priority>0</priority>
   </url>
