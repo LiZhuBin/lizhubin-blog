@@ -281,6 +281,10 @@
 
   
 
+  
+
+  
+
 
 
 
@@ -317,6 +321,15 @@
               </a>
             </li>           
           
+            
+              <li class="middot"></li>
+            
+            <li class="py-1">
+              <a href="https://lizhubin.github.io/lizhubin-blog/categories/markdown">
+                <span>Markdown (2)</span>
+              </a>
+            </li>           
+          
         
       </div>
     </div>
@@ -326,6 +339,10 @@
 
     
           
+
+  
+
+  
 
   
 
@@ -375,6 +392,9 @@
             <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/git" role="button"><span>git (2)</span></a></li>
           
         
+            <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/markdown" role="button"><span>markdown (2)</span></a></li>
+          
+        
       </div>
     </div>
 
@@ -408,7 +428,7 @@
               
                 <div class="px-2 middot"></div>
                 <div>
-                  8 posts
+                  10 posts
                 </div>
               
             </div>
@@ -482,17 +502,139 @@
     <li class="page-item"><a class="page-link" href="https://lizhubin.github.io/lizhubin-blog/blog/page/3/">3</a></li>
     
     
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="https://lizhubin.github.io/lizhubin-blog/blog/page/4/">4</a></li>
+    
+    
     <li class="page-item">
     <a href="https://lizhubin.github.io/lizhubin-blog/blog/page/3/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
     </li>
     
     <li class="page-item">
-        <a href="https://lizhubin.github.io/lizhubin-blog/blog/page/3/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+        <a href="https://lizhubin.github.io/lizhubin-blog/blog/page/4/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
     </li>
     
 </ul>
 
           </div>
+
+          
+              <div class="post-wrapper white-bg post-card">
+  
+  <a href="https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%80%BC%E5%BE%97%E6%B3%A8%E6%84%8F%E7%9A%84markdown%E8%AF%AD%E6%B3%95/">
+    <div class="post-header text-center">
+      <div class="px-4 post-heading">值得注意的markdown语法</div>
+      <ul class="post-meta li-x mt-1">
+        
+          <li>Apr 29, 2019</li>
+        
+    
+        
+          <li class="middot"></li>
+          <li>One minute read</li>
+        
+      </ul>
+    </div>
+    
+
+    
+      值得注意的markdown语法 图片 ![图片alt](图片地址 &#39;&#39;图片title&#39;&#39;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 引用 在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt; n个… &gt;这是引用的内容 &gt;&gt;这是引用的内容 &amp;g......
+    
+  </a>
+
+  
+  
+  <div class="post-meta li-x mt-2 div-x">
+    <div>
+      
+        
+          <li><a href="https://lizhubin.github.io/lizhubin-blog/categories/markdown"><i class="fas fa-folder-open pr-1" aria-hidden="true"></i> markdown </a></li>
+        
+      
+      
+    </div>
+   
+    <div>
+      
+        
+<div class="li-x div-x post-meta">
+  <li class="pr-0"><a href="https://lizhubin.github.io/lizhubin-blog/tags/"><i class="fas fa-tags"></i></a></li>
+  <div class="tags-sm">
+    
+      <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/markdown" role="button">markdown </a></li>
+      
+    
+  </div>
+</div>
+      
+    </div>
+  </div>
+
+</div>
+
+          
+              <div class="post-wrapper white-bg post-card">
+  
+  <a href="https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E8%84%9A%E6%9C%AC/">
+    <div class="post-header text-center">
+      <div class="px-4 post-heading">自动部署脚本</div>
+      <ul class="post-meta li-x mt-1">
+        
+          <li>Apr 28, 2019</li>
+        
+    
+        
+          <li class="middot"></li>
+          <li>One minute read</li>
+        
+      </ul>
+    </div>
+    
+
+    
+      自动部署脚本 #!/bin/bash if [ $# -lt 1 ]; then echo &#34;$0 &lt;commit message&gt;&#34; exit 1 fi msg=&#34;$1&#34; git commit -m &#34;$msg&#34; if [ $? -ne 0 ]; then echo &#34;Commit failed&#34; exit 1 fi git push origin master if [ $? -ne 0 ]; then echo &#34;Push failed&#34; fi echo -e &#34;\033[0;32mDeploying updates to GitHub...\033[0m&#34; # Build the project. hugo # if using a theme, replace with `hugo -t &lt;YOURTHEME&gt;` # Go To Public folder cd public # Add changes to git. git add . # Commit changes. git commit -m &#34;$msg&#34; # Push source and build repos. git push origin master # Come Back up to the Project Root cd .. Lorem Ipsum.......
+    
+  </a>
+
+  
+  
+  <div class="post-meta li-x mt-2 div-x">
+    <div>
+      
+        
+          <li><a href="https://lizhubin.github.io/lizhubin-blog/categories/hugo"><i class="fas fa-folder-open pr-1" aria-hidden="true"></i> hugo </a></li>
+        
+      
+      
+    </div>
+   
+    <div>
+      
+        
+<div class="li-x div-x post-meta">
+  <li class="pr-0"><a href="https://lizhubin.github.io/lizhubin-blog/tags/"><i class="fas fa-tags"></i></a></li>
+  <div class="tags-sm">
+    
+      <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/hugo" role="button">hugo </a></li>
+      
+    
+      <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/%E5%8D%9A%E5%AE%A2" role="button">博客 </a></li>
+      
+    
+  </div>
+</div>
+      
+    </div>
+  </div>
+
+</div>
 
           
               <div class="post-wrapper white-bg post-card">
@@ -515,120 +657,6 @@
 
     
       部署到github 配置git 用户 git config --global user.name &#34;(NAME)&#34; git config --global user.email &#39;(EMAIL)&#39; 创建 ssk ssh-keygen -t rsa -C &#34;(EMAIL)&#34; 关联 将ssh/id_rsa 加到github 上 remote git remote add origin git@....git 上传 git add . git commit -m &#39;(tag)&#39; git push -u origin master 注意 远程库不能命名为[(你的名字)/库名]，否则打开github.io时只会出现index.html/README.md的内容，真正的位置在你生成的静态文件中（默认public,推荐docs目录） 正确做法： 在config.toml中加入 publiddir = &#34;docs&#34; 接着删......
-    
-  </a>
-
-  
-  
-  <div class="post-meta li-x mt-2 div-x">
-    <div>
-      
-        
-          <li><a href="https://lizhubin.github.io/lizhubin-blog/categories/hugo"><i class="fas fa-folder-open pr-1" aria-hidden="true"></i> hugo </a></li>
-        
-      
-      
-    </div>
-   
-    <div>
-      
-        
-<div class="li-x div-x post-meta">
-  <li class="pr-0"><a href="https://lizhubin.github.io/lizhubin-blog/tags/"><i class="fas fa-tags"></i></a></li>
-  <div class="tags-sm">
-    
-      <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/hugo" role="button">hugo </a></li>
-      
-    
-      <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/%E5%8D%9A%E5%AE%A2" role="button">博客 </a></li>
-      
-    
-  </div>
-</div>
-      
-    </div>
-  </div>
-
-</div>
-
-          
-              <div class="post-wrapper white-bg post-card">
-  
-  <a href="https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E4%BE%A7%E8%BE%B9%E6%A1%86%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/">
-    <div class="post-header text-center">
-      <div class="px-4 post-heading">侧边框添加个人信息</div>
-      <ul class="post-meta li-x mt-1">
-        
-          <li>Apr 28, 2019</li>
-        
-    
-        
-          <li class="middot"></li>
-          <li>One minute read</li>
-        
-      </ul>
-    </div>
-    
-
-    
-      侧边框添加个人信息 操作一 将要隐藏的，不显示在侧边框的文件放在content根目录下 操作二 在 config.toml 中添加个人信息 name : 显示文字 identifier: 唯一标志 url ： 链接（本地或网络） [[menu.shortcuts]] name = &#34;&lt;i class=&#39;fab fa-github&#39;&gt;&lt;/i&gt; Github repo&#34; identifier = &#34;ds&#34; url = &#34;https://github.com/matcornic/hugo-theme-learn&#34; weight = 10 ## Lorem Ipsum.......
-    
-  </a>
-
-  
-  
-  <div class="post-meta li-x mt-2 div-x">
-    <div>
-      
-        
-          <li><a href="https://lizhubin.github.io/lizhubin-blog/categories/hugo"><i class="fas fa-folder-open pr-1" aria-hidden="true"></i> hugo </a></li>
-        
-      
-      
-    </div>
-   
-    <div>
-      
-        
-<div class="li-x div-x post-meta">
-  <li class="pr-0"><a href="https://lizhubin.github.io/lizhubin-blog/tags/"><i class="fas fa-tags"></i></a></li>
-  <div class="tags-sm">
-    
-      <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/hugo" role="button">hugo </a></li>
-      
-    
-      <li><a href="https://lizhubin.github.io/lizhubin-blog/tags/%E5%8D%9A%E5%AE%A2" role="button">博客 </a></li>
-      
-    
-  </div>
-</div>
-      
-    </div>
-  </div>
-
-</div>
-
-          
-              <div class="post-wrapper white-bg post-card">
-  
-  <a href="https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%BB%BA%E7%AB%8B%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95/">
-    <div class="post-header text-center">
-      <div class="px-4 post-heading">建立文件目录</div>
-      <ul class="post-meta li-x mt-1">
-        
-          <li>Apr 28, 2019</li>
-        
-    
-        
-          <li class="middot"></li>
-          <li>One minute read</li>
-        
-      </ul>
-    </div>
-    
-
-    
-      建立文件目录 每个目录中都应该有_index.md文件 用于显示该目录下文件的说明 建立普通文件 hugo new (地址/文件名).md 建立目录文件 hugo new --kind chapter (地址/文件名).md 会生成相应的默认数据 title = &#34;建立文件目录&#34; date = 2019-04-28T13:22:24&#43;08:00 weight = 2 chapter = true 其中weight 表示目录的排列顺序 （越小越排前）......
     
   </a>
 

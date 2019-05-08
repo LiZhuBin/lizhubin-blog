@@ -48,6 +48,24 @@
     </item>
     
     <item>
+      <title>使用七牛云实现图片上传</title>
+      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E4%BD%BF%E7%94%A8%E4%B8%83%E7%89%9B%E4%BA%91%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/</link>
+      <pubDate>Sat, 04 May 2019 23:51:35 +0800</pubDate>
+      
+      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E4%BD%BF%E7%94%A8%E4%B8%83%E7%89%9B%E4%BA%91%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/</guid>
+      <description>Chapter X 使用七牛云实现图片上传 markdown的图上上传是一个困扰作者很久的问题，图片放在本地又会使资源增大， 变得复杂；放于网络又困于没有方便的方法，总不能租个服务器去配置图片环境吧， 七牛云就可以较好得解决这个问题 申请云空间 https://www.qiniu.com 上七牛云网，点击左侧左侧菜单 对象存储，一开始我们需要新建一个存储空间来存放我们的图片资源。点击新建存储空间 上传文件 点击内容管理选项，可以看到我们的图片资源列表。点击上传文件，在新</description>
+    </item>
+    
+    <item>
+      <title>值得注意的markdown语法</title>
+      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%80%BC%E5%BE%97%E6%B3%A8%E6%84%8F%E7%9A%84markdown%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Mon, 29 Apr 2019 19:11:05 +0800</pubDate>
+      
+      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%80%BC%E5%BE%97%E6%B3%A8%E6%84%8F%E7%9A%84markdown%E8%AF%AD%E6%B3%95/</guid>
+      <description>值得注意的markdown语法 图片 ![图片alt](图片地址 &#39;&#39;图片title&#39;&#39;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 引用 在引用的文字前加&amp;gt;即可。引用也可以嵌套，如加两个&amp;gt;&amp;gt;三个&amp;gt;&amp;gt;&amp;gt; n个&amp;hellip; &amp;gt;这是引用的内容 &amp;gt;&amp;gt;这是引用的内容 &amp;g</description>
+    </item>
+    
+    <item>
       <title>自动部署脚本</title>
       <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E8%84%9A%E6%9C%AC/</link>
       <pubDate>Sun, 28 Apr 2019 15:53:41 +0800</pubDate>

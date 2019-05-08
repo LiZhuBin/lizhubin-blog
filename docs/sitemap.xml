@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/blog/others/</loc>
-    <lastmod>2019-04-28T12:43:41+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/__init__%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%8C%85%E7%AE%A1%E7%90%86%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2019-04-28T12:07:15+08:00</lastmod>
   </url>
@@ -110,6 +105,18 @@
   <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/</loc>
     <lastmod>2019-05-08T15:10:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lizhubin.github.io/lizhubin-blog/categories/markdown/</loc>
+    <lastmod>2019-05-04T23:51:35+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lizhubin.github.io/lizhubin-blog/tags/markdown/</loc>
+    <lastmod>2019-05-04T23:51:35+08:00</lastmod>
     <priority>0</priority>
   </url>
   

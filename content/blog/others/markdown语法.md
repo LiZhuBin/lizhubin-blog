@@ -3,7 +3,8 @@ title = "值得注意的markdown语法"
 date = 2019-04-29T19:11:05+08:00
 weight = 5
 chapter = true
-pre = "<b>X. </b>"
+tags =  ["markdown"]
+categories =  ["markdown"]
 +++
 
 
