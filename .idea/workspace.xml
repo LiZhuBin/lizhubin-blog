@@ -1,11 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/content/buildSite/hugo/建立博客.md" description="+++&#10;title = &quot;建立博客&quot;&#10;date = 2019-04-28T13:22:24+08:0..." line="0" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="868d7e93-ae87-4485-8561-20c7805eb6d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/addmdfile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/git/addBug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/git/pushBug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/moment/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/moment/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/.idea/AllinOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/archetypes/default.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/data/series.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-01/mac小白探索记1-基本设置与常用软件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-01/mac小白探索记2-finder设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-03/blog养成记7-hugo多级列表无法显示--markdown的bug合集.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-05/中文版音乐剧长腿叔叔repo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-05/爱尔兰踢踏舞王者之舞危险游戏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-05/现实与幻想的距离观深夜小狗离奇事件repo感想.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-08/blog养成记11-给网站加个小icon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-08/blog养成记14-让同页滚动更平滑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-08/前端试水1-前端技术路线.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-08/前端试水2-使用docker镜像的sass配置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/2018-08/音乐剧catrepo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/moment/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/content/moment/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/data/series.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/layouts/shortcodes/bgstyle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/layouts/shortcodes/color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/blog/2018-08/test1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/blog/2018-08/test3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/blog/2018-08/test4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/blog/2018-08/test5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Amphetamine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Cheatsheet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Docker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Little-Snitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/NoSleep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/PyCharm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/SPlayerX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Spectacle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Sublime-Text.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/Windscribe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/config-privacy-source.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/open-emoji-view.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/touchbar-config.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/unarchiver.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/vlc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/1/vuze.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/Automator.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/Go2Shell.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/add-app.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/application.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/change-icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/finder-toolbox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/finder-view.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/go2shell-finder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/go2shell-toolbox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/new-application.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/open-terminal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/run-script.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/save-script.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/images/series/Mac小白探索记/2/service-open-terminal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/exampleSite/static/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/i18n/en.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/i18n/zh-Hans.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/images/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/images/screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/images/screenshot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/images/tn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/_default/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/_default/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/_default/taxonomy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/_default/terms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/homepage-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/li.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/page-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/page-heading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/post-card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/post-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/sidebar-card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/sidebar-categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/sidebar-series.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/sidebar-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/site-navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/site-scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/partials/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/shortcodes/center.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/layouts/shortcodes/img-no-border.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/vendors-extensions/fontawesome/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/vendors-extensions/mdb/mdb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/vendors-extensions/mdb/mdb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/vendors/bootstrap4/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/vendors/highlight/github-gist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/vendors/mdb/mdb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/css/vendors/mdb/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/fonts/fontawesome/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/header-slides/raw_1515691746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/header-slides/raw_1515847341.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/mask/circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/svg/arrow_left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/svg/arrow_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/img/zheng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors-extensions/bootstrap4/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/highlight.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/holder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/jquery/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/jquery/jquery.smooth-scroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/auto-render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/auto-render.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/mathtex-script-type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/contrib/mathtex-script-type.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_AMS-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_AMS-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_AMS-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Math-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Math-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Math-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Script-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Script-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Script-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size1-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size1-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size1-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size2-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size2-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size2-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size3-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size3-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size3-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size4-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size4-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size4-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/katex.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/katex/katex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/mdb/mdb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/mdb/mdw-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/static/js/vendors/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/AllinOne/theme.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/侧边框添加个人信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/侧边框添加个人信息.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/安装.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/建立博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/建立博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/建立博客踩的坑.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/建立博客踩的坑.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/新建文件目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/新建文件目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/自动部署脚本.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/自动部署脚本.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/buildSite/hugo/部署到github.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/buildSite/hugo/部署到github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/git/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/git/megerConflict.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/others/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/others/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/others/markdown语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/others/markdown语法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/others/使用七牛云实现图片上传.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/others/使用七牛云实现图片上传.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pythonBase/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/pythonBase/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pythonBase/bug/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/pythonBase/bug/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pythonBase/knowledge/__Init__的使用与包管理心得.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/pythonBase/knowledge/__Init__的使用与包管理心得.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pythonBase/knowledge/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/pythonBase/knowledge/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/python工程师_李主彬.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/侧边框添加个人信息/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/侧边框添加个人信息/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/安装/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/安装/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/建立博客/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/建立博客/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/建立博客踩的坑/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/建立博客踩的坑/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/新建文件目录/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/新建文件目录/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/自动部署脚本/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/自动部署脚本/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/hugo/部署到github/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/hugo/部署到github/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/buildsite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/buildsite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/git/megerconflict/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/git/megerconflict/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/others/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/others/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/others/markdown语法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/others/markdown语法/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/others/使用七牛云实现图片上传/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/others/使用七牛云实现图片上传/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pythonbase/bug/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pythonbase/bug/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pythonbase/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pythonbase/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pythonbase/knowledge/__init__的使用与包管理心得/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pythonbase/knowledge/__init__的使用与包管理心得/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pythonbase/knowledge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pythonbase/knowledge/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes" beforeDir="false" afterPath="$PROJECT_DIR$/themes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Binario" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Binario" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/KeepIt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/KeepIt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Niello" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Niello" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Shapez-Theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Shapez-Theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/_script/generateThemeSite.sh" beforeDir="false" afterPath="$PROJECT_DIR$/themes/_script/generateThemeSite.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aafu" beforeDir="false" afterPath="$PROJECT_DIR$/themes/aafu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic" beforeDir="false" afterPath="$PROJECT_DIR$/themes/academic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/aether" beforeDir="false" afterPath="$PROJECT_DIR$/themes/aether" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/airspace-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/airspace-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/alpha-church" beforeDir="false" afterPath="$PROJECT_DIR$/themes/alpha-church" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/athena-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/athena-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/base16" beforeDir="false" afterPath="$PROJECT_DIR$/themes/base16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/beautifulhugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/beautifulhugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bilberry-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bilberry-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bleach-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bleach-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bulma" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bulma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/capsule" beforeDir="false" afterPath="$PROJECT_DIR$/themes/capsule" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/castanet" beforeDir="false" afterPath="$PROJECT_DIR$/themes/castanet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cayman-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cayman-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/charaka-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/charaka-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/co-op" beforeDir="false" afterPath="$PROJECT_DIR$/themes/co-op" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cocoa-eh-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cocoa-eh-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cupper-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cupper-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/devfest-theme-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/devfest-theme-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/engimo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/engimo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/forty" beforeDir="false" afterPath="$PROJECT_DIR$/themes/forty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/foundation-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ghostwriter" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ghostwriter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke" beforeDir="false" afterPath="$PROJECT_DIR$/themes/gohugo-theme-ananke" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-yinwang" beforeDir="false" afterPath="$PROJECT_DIR$/themes/gohugo-theme-yinwang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hallo-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hallo-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hermit" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hermit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-alageek-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-alageek-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-apps-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-apps-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-bare-min-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-bare-min-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-blog-jeffprod" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-blog-jeffprod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-book" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-book" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-bootstrap-premium" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-bootstrap-premium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-coder" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-coder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-coder-portfolio" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-coder-portfolio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-creative-portfolio-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-dgraph-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-dgraph-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-fabric" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-fabric" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-flex" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-flex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-fresh" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-fresh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-future-imperfect-slim" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect-slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-hero-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-hero-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-lamp" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-lamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-mondrian-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-mondrian-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-myportfolio-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-myportfolio-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-natrium-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-natrium-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-nuo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-nuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-pacman-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-pacman-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-paper" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-paper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-piercer-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-piercer-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-primer" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-primer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-terrassa-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-terrassa-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-basic" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-basic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-bootstrap4-blog" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-bootstrap4-blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-cleanwhite" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-cleanwhite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-even" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-even" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-hamburg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-hamburg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-hello-friend" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-hello-friend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-hello-friend-ng" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-hello-friend-ng" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-introduction" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-introduction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-jane" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-jane" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-learn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-m10c" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-m10c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-massively" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-massively" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-minos" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-minos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-nix" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-nix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-sam" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-sam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-sky" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-sky" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-techdoc" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-techdoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-techlog-simple" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-techlog-simple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-terminal" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-terminal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-yinyang" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-yinyang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-zen" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-zen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-theme-zozo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-theme-zozo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-tikva" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-tikva" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-universal-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-universal-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-w3-simple" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-w3-simple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-whisper-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-whisper-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-xmin" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-xmin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo_theme_adam_eve" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo_theme_adam_eve" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo_theme_pickles" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo_theme_pickles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugotube" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugotube" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hyde" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hyde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hyde-hyde" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hyde-hyde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/infinity-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/infinity-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/kiss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/kiss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lanyon" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lanyon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mainroad" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mainroad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/manis-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/manis-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mediumish-gohugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mediumish-gohugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/meghna-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mero" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mero" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/min_night" beforeDir="false" afterPath="$PROJECT_DIR$/themes/min_night" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/minimage" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minimage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/minimal-bootstrap-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minimal-bootstrap-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/minimo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minimo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/navigator-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/newsprint" beforeDir="false" afterPath="$PROJECT_DIR$/themes/newsprint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/papercss-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/papercss-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pixyll" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pixyll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pulp" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pulp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/reveal-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/reveal-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/sada" beforeDir="false" afterPath="$PROJECT_DIR$/themes/sada" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simpleblox" beforeDir="false" afterPath="$PROJECT_DIR$/themes/simpleblox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/simpleit-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/simpleit-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/slick" beforeDir="false" afterPath="$PROJECT_DIR$/themes/slick" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/spectrum" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spectrum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/stip-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/stip-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/story" beforeDir="false" afterPath="$PROJECT_DIR$/themes/story" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tale-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tale-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/temple" beforeDir="false" afterPath="$PROJECT_DIR$/themes/temple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/timer-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/timer-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/type" beforeDir="false" afterPath="$PROJECT_DIR$/themes/type" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vanilla-bootstrap-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vanilla-bootstrap-hugo-theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/vncnt-hugo" beforeDir="false" afterPath="$PROJECT_DIR$/themes/vncnt-hugo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/whiteplain" beforeDir="false" afterPath="$PROJECT_DIR$/themes/whiteplain" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,143 +389,72 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/config.toml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor />
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/deploy.sh">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="13">
-                  <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/addmdfile.sh">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/content/others/markdown语法.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="-397">
-                    <caret line="12" column="3" selection-start-line="12" selection-end-line="12" selection-end-column="3" />
-                  </first_editor>
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/content/buildSite/_index.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="209">
-                    <caret line="11" selection-start-line="11" selection-end-line="11" />
-                  </first_editor>
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/content/others/使用七牛云实现图片上传.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="102">
-                    <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-                  </first_editor>
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/建立博客.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="249">
-                    <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-                  </first_editor>
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/新建文件目录.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="-226" />
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/部署到github.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="216">
-                    <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-                  </first_editor>
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/addmdfile.sh">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/index.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="https://github.com/timothyasp/apriori-python.git">
+          <provider selected="true" editor-type-id="httpFileEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/git/addBug.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/git/pushBug.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/AllinOne/data/series.toml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -188,11 +493,13 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/content/git/megerConflict.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/buildSite/hugo/建立博客踩的坑.md" />
         <option value="$PROJECT_DIR$/content/buildSite/hugo/部署到github.md" />
         <option value="$PROJECT_DIR$/content/others/使用七牛云实现图片上传.md" />
         <option value="$PROJECT_DIR$/addmdfile.sh" />
+        <option value="$PROJECT_DIR$/themes/hugo-theme-learn/archetypes/chapter.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/blog/git/addBug.md" />
       </list>
     </option>
   </component>
@@ -200,7 +507,7 @@
     <option name="x" value="385" />
     <option name="y" value="240" />
     <option name="width" value="1080" />
-    <option name="height" value="553" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -210,6 +517,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,18 +535,14 @@
               <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
@@ -248,20 +553,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\QQPCmgr\Desktop\mysite\content" />
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/timothyasp/apriori-python.git" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\QQPCmgr\Desktop\mysite\content\others" />
@@ -269,6 +575,11 @@
       <recent name="E:\QQPCmgr\Desktop\mysite\content\post" />
       <recent name="E:\QQPCmgr\Desktop\mysite\content" />
       <recent name="E:\QQPCmgr\Desktop\mysite\content\pythonBase\knowledge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\QQPCmgr\Desktop\mysite\themes" />
+      <recent name="E:\QQPCmgr\Desktop\mysite" />
+      <recent name="E:\QQPCmgr\Desktop\mysite\content" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,7 +625,9 @@
       <workItem from="1556423359802" duration="15089000" />
       <workItem from="1556448776006" duration="9833000" />
       <workItem from="1556622071481" duration="216000" />
-      <workItem from="1556959199893" duration="13836000" />
+      <workItem from="1556959199893" duration="14329000" />
+      <workItem from="1557122639546" duration="2919000" />
+      <workItem from="1557217648147" duration="138000" />
     </task>
     <task id="LOCAL-00001" summary="基本完成hugo模块">
       <created>1556436118945</created>
@@ -446,14 +759,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38974000" />
+    <option name="totallyTimeSpent" value="42524000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29423591" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31164902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -465,13 +782,19 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3796034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37704918" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -570,18 +886,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.md" />
     <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/安装.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -594,9 +899,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/github-page-setting.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/github-page-setting.png" />
     <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/侧边框添加个人信息.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-95">
@@ -626,73 +929,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buildSite/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/others/markdown语法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-397">
-            <caret line="12" column="3" selection-start-line="12" selection-end-line="12" selection-end-column="3" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/部署到github.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/建立博客.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="249">
-            <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/others/使用七牛云实现图片上传.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/git/aaa.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -705,15 +942,186 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="190">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/others/使用七牛云实现图片上传.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/建立博客.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="608">
+            <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/hugo/部署到github.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="893">
+            <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/addmdfile.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/others/markdown语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/git/content/aaa.md" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buildSite/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/exampleSite/content/_index.en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/exampleSite/content/_index.fr.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/exampleSite/content/credits.en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/archetypes/default.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/archetypes/chapter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="20" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://github.com/timothyasp/apriori-python.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/AllinOne/data/series.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/git/pushBug.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/git/addBug.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
