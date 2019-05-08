@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python知识心得 on Orianna</title>
-    <link>https://lizhubin.github.io/blog/pythonbase/knowledge/</link>
-    <description>Recent content in python知识心得 on Orianna</description>
+    <title>python知识心得 on 李主彬的个人技术博客</title>
+    <link>https://lizhubin.github.io/lizhubin-blog/blog/pythonbase/knowledge/</link>
+    <description>Recent content in python知识心得 on 李主彬的个人技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Sun, 28 Apr 2019 11:58:19 +0800</lastBuildDate>
     
-	<atom:link href="https://lizhubin.github.io/blog/pythonbase/knowledge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lizhubin.github.io/lizhubin-blog/blog/pythonbase/knowledge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>__Init__的使用与包管理心得</title>
-      <link>https://lizhubin.github.io/blog/2019-04/__init__%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%8C%85%E7%AE%A1%E7%90%86%E5%BF%83%E5%BE%97/</link>
+      <link>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/__init__%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%8C%85%E7%AE%A1%E7%90%86%E5%BF%83%E5%BE%97/</link>
       <pubDate>Sun, 28 Apr 2019 12:07:15 +0800</pubDate>
       
-      <guid>https://lizhubin.github.io/blog/2019-04/__init__%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%8C%85%E7%AE%A1%E7%90%86%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/__init__%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%8C%85%E7%AE%A1%E7%90%86%E5%BF%83%E5%BE%97/</guid>
       <description>什么是init包</description>
     </item>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Orianna</title>
+    <title>Categories on 李主彬的个人技术博客</title>
     <link>https://lizhubin.github.io/lizhubin-blog/categories/</link>
-    <description>Recent content in Categories on Orianna</description>
+    <description>Recent content in Categories on 李主彬的个人技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 04 May 2019 19:24:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2019 15:53:41 +0800</lastBuildDate>
     
 	<atom:link href="https://lizhubin.github.io/lizhubin-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>hugo</title>
       <link>https://lizhubin.github.io/lizhubin-blog/categories/hugo/</link>
-      <pubDate>Sat, 04 May 2019 19:24:03 +0800</pubDate>
+      <pubDate>Sun, 28 Apr 2019 15:53:41 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/categories/hugo/</guid>
       <description></description>

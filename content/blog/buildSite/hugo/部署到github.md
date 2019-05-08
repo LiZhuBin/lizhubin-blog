@@ -3,7 +3,8 @@ title = "部署到github"
 date = 2019-04-28T15:13:41+08:00
 weight = 5
 chapter = true
-pre = "<b>X. </b>"
+tags =  ["hugo", "博客"]
+categories =  ["hugo"]
 +++
 
 
