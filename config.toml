@@ -4,7 +4,7 @@ languageCode               = "zn-Hans"
 canonifyurls               = true
 contentdir                 = "content"
 layoutdir                  = "layouts"
-publishdir                 = "public"
+publishdir                 = "docs"
 enableEmoji                = true
 hasCJKLanguage             = true
 summaryLength              = 200
@@ -51,7 +51,7 @@ pygmentsuseclasses         = true
   faviconfile              = "img/zheng.png"               # from static/
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png
   author                   = "李主彬"
-  description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
+  description              = ["个人博客", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!"
   welcome_word             = ""
 
