@@ -15,7 +15,7 @@ git config --global user.name "(NAME)"
 git config --global user.email '(EMAIL)'
 ~~~
 
-## 创建 ssk
+## 创建 ssh
 ~~~
 ssh-keygen -t rsa -C "(EMAIL)"
 ~~~
@@ -33,6 +33,7 @@ git add .
 git commit -m '(tag)'
 git push -u origin master
 ~~~
+或者使用deploy脚本[自动部署脚本](../自动部署脚本)
 ## 注意
 远程库不能命名为[(你的名字)/库名]，否则打开github.io时只会出现index.html/README.md的内容，真正的位置在你生成的静态文件中（默认public,推荐docs目录）
 

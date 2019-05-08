@@ -601,7 +601,7 @@
     
 
     
-      MegerConflict 问题 hint: Updates were rejected because the tip of your current branch is behind hint: its remote counterpart. Integrate the remote changes (e.g. hint: ‘git pull …’) before pushing again. hint: See the ‘Note about fast-forwards’ in ‘git push –help’ for details. 解决 勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。 git push -u origin master -f 问题 Your local changes to the following files would be overwritten by merge: protected/config/main.php Please, commit your changes or stash them before you can merge. 原因 如果系统中有一些配置文件在服务器上做了配置修改,然后后续开发又新添加一些配置项的时候, 在发布这个配置文件的时候,会发生代码冲突: 解决 git reset --hard git pull......
+      MegerConflict 问题 hint: Updates were rejected because the tip of your current branch is behind hint: its remote counterpart. Integrate the remote changes (e.g. hint: ‘git pull …’) before pushing again. hint: See the ‘Note about fast-forwards’ in ‘git push –help’ for details. 解决 勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。 git push -u origin master -f 问题 Your local changes to the following files would be overwritten by merge: protected/config/main.php Please, commit your changes or stash them before you can merge. 原因 如果系统中有一些配置文件在服务器上做了配置修改,然后后续开发又新添加一些配置项的时候, 在发布这个配置文件的时候,会发生代码冲突: 解决 git reset --hard git pull 问题 git push 时卡顿，打开github也......
     
   </a>
 
@@ -712,7 +712,7 @@
     
 
     
-      自动部署脚本 #!/bin/bash if [ $# -lt 1 ]; then echo &#34;$0 &lt;commit message&gt;&#34; exit 1 fi msg=&#34;$1&#34; git commit -m &#34;$msg&#34; if [ $? -ne 0 ]; then echo &#34;Commit failed&#34; exit 1 fi git push origin master if [ $? -ne 0 ]; then echo &#34;Push failed&#34; fi echo -e &#34;\033[0;32mDeploying updates to GitHub...\033[0m&#34; # Build the project. hugo # if using a theme, replace with `hugo -t &lt;YOURTHEME&gt;` # Go To Public folder cd public # Add changes to git. git add . # Commit changes. git commit -m &#34;$msg&#34; # Push source and build repos. git push origin master # Come Back up to the Project Root cd .. Lorem Ipsum.......
+      自动部署脚本 放于项目根目录，用于快速提交到远程仓库 #!/bin/bash if [ $# -lt 1 ]; then echo &#34;$0 &lt;commit message&gt;&#34; exit 1 fi msg=&#34;$1&#34; git commit -m &#34;$msg&#34; if [ $? -ne 0 ]; then echo &#34;Commit failed&#34; exit 1 fi git push origin master if [ $? -ne 0 ]; then echo &#34;Push failed&#34; fi echo -e &#34;\033[0;32mDeploying updates to GitHub...\033[0m&#34; # Build the project. hugo # if using a theme, replace with `hugo -t &lt;YOURTHEME&gt;` # Go To Public folder cd public # Add changes to git. git add . # Commit changes. git commit -m &#34;$msg&#34; # Push source and build repos. git push origin master # Come Back up to the Project Root cd ........
     
   </a>
 

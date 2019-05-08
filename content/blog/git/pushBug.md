@@ -33,4 +33,26 @@ Please, commit your changes or stash them before you can merge.
 git reset --hard
 git pull
 ~~~
+## 问题
+git push 时卡顿，打开github也很打开，但网络是正常的
+git bash 上显示
+~~~
+Connection reset by 13.250.***.223 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+~~~
+github 好不容易打开后显示
+~~~
+Cannot retrieve the latest commit at this time.
+~~~
+## 原因
+github 没更新完，部署gitpages需要时间
+> 真laji
+## 解决
+等他更新就好了
+
+
 
