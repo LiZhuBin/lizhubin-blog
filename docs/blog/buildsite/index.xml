@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BuildSites on 李主彬的个人技术博客</title>
+    <link>https://lizhubin.github.io/lizhubin-blog/blog/buildsite/</link>
+    <description>Recent content in BuildSites on 李主彬的个人技术博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    
+	<atom:link href="https://lizhubin.github.io/lizhubin-blog/blog/buildsite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -3,8 +3,8 @@ title = "部署到github"
 date = 2019-04-28T15:13:41+08:00
 weight = 5
 chapter = true
-tags =  ["hugo", "博客"]
-categories =  ["hugo"]
+tags =  ["hugo"]
+categories =  ["博客"]
 +++
 
 
@@ -15,7 +15,7 @@ git config --global user.name "(NAME)"
 git config --global user.email '(EMAIL)'
 ~~~
 
-## 创建 ssh
+## 创建 ssk
 ~~~
 ssh-keygen -t rsa -C "(EMAIL)"
 ~~~
@@ -33,7 +33,6 @@ git add .
 git commit -m '(tag)'
 git push -u origin master
 ~~~
-或者使用deploy脚本[自动部署脚本](../自动部署脚本)
 ## 注意
 远程库不能命名为[(你的名字)/库名]，否则打开github.io时只会出现index.html/README.md的内容，真正的位置在你生成的静态文件中（默认public,推荐docs目录）
 
