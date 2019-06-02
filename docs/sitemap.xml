@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/addbug/</loc>
-    <lastmod>2019-05-08T15:10:59+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E4%BD%BF%E7%94%A8picgo%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%83%E7%89%9B%E4%BA%91%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
     <lastmod>2019-05-04T23:51:35+08:00</lastmod>
   </url>
@@ -83,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/git-push-%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2019-05-04T18:30:41+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E4%BE%A7%E8%BE%B9%E6%A1%86%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/</loc>
     <lastmod>2019-04-28T13:46:55+08:00</lastmod>
   </url>
@@ -98,38 +88,32 @@
   </url>
   
   <url>
+    <loc>https://lizhubin.github.io/lizhubin-blog/</loc>
+    <lastmod>2019-05-04T23:51:35+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/categories/</loc>
-    <lastmod>2019-05-08T15:10:59+08:00</lastmod>
+    <lastmod>2019-05-04T19:24:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/tags/</loc>
-    <lastmod>2019-05-08T15:10:59+08:00</lastmod>
+    <lastmod>2019-05-04T19:24:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/tags/bug/</loc>
-    <lastmod>2019-05-08T15:10:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/tags/git/</loc>
-    <lastmod>2019-05-08T15:10:59+08:00</lastmod>
+    <lastmod>2019-05-04T19:24:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lizhubin.github.io/lizhubin-blog/categories/git/</loc>
-    <lastmod>2019-05-08T15:10:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lizhubin.github.io/lizhubin-blog/</loc>
-    <lastmod>2019-05-08T15:10:59+08:00</lastmod>
+    <lastmod>2019-05-04T19:24:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   

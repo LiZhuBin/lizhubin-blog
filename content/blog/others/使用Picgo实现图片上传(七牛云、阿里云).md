@@ -3,7 +3,7 @@ title = "使用Picgo实现图片上传(七牛云、阿里云)"
 date = 2019-05-04T23:51:35+08:00
 weight = 5
 chapter = true
-pre = "<b>X. </b>"
+toc = true
 +++
 
 # 使用picgo 

@@ -5,6 +5,9 @@ weight = 5
 chapter = true
 tags = ["bug"]
 categories = ["git"]
+img = "img/default.jpg"
+toc = true
+summary = "git push时可能出现的bug"
 +++
 
 

@@ -5,7 +5,7 @@ weight = 1
 chapter = true
 tags = ["bug"]
 categories = ["git"]
-img = "./aa.png"
+img = "https://source.unsplash.com/collection/190727/1600x800"
 toc = true
 summary = "git add时可能出现的bug"
 +++
