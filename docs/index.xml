@@ -26,7 +26,7 @@
       <pubDate>Sun, 28 Apr 2019 12:51:29 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%AE%89%E8%A3%85/</guid>
-      <description>安装hugo 使用npm npm install hugo-cli 使用包 hugo-source 解压、将文件所在Bin目录加到系统变量中</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 28 Apr 2019 13:22:24 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2/</guid>
-      <description>新建网站 hugo new site mysite 配置主题 下载 cd mysite npm install https://github.com/matcornic/hugo-theme-learn 在config.toml中添加 theme = &amp;quot;hugo-theme-learn&amp;quot; # For search functionality [outputs] home = [ &amp;quot;HTML&amp;quot;, &amp;quot;RSS&amp;quot;, &amp;quot;JSON&amp;quot;] 开启服务 hugo server 这时开启服务后打开 http://localhost:1313</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sun, 28 Apr 2019 13:22:24 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%BB%BA%E7%AB%8B%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95/</guid>
-      <description>建立文件目录发 每个目录中都应该有_index.md文件 用于显示该目录下文件的说明 建立普通文件 hugo new (地址/文件名).md 建立目录文件 hugo new --kind chapter (地址/文件名).md 会生成相应的默认数据 title = &amp;quot;建立文件目录&amp;quot; date = 2019-04-28T13:22:24+08:00 weight = 2 chapter = true 其中weight 表示目录的排列顺序 （越小越排前）</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sat, 04 May 2019 23:51:35 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E4%BD%BF%E7%94%A8picgo%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E4%B8%83%E7%89%9B%E4%BA%91%E9%98%BF%E9%87%8C%E4%BA%91/</guid>
-      <description>使用picgo picgo用于方便的上传图片，可以下载安装包也可以使用npm运行,个人推荐使用安装包，因为使用npm要运行命令，并且启动是真的慢 查看picgo 安装picgo 使用七牛云实现图片上传 markdown的图上上传是一个困扰作者很久的问题，图片放在本地又会使资源增大， 变得复杂；放于网络又困于没有方便的方法，总不能租个服务器去配置图片环境吧， 七牛云就可以较好得解决这个问题 - 优点 基础数据免费，20</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Mon, 29 Apr 2019 19:11:05 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E5%80%BC%E5%BE%97%E6%B3%A8%E6%84%8F%E7%9A%84markdown%E8%AF%AD%E6%B3%95/</guid>
-      <description>值得注意的markdown语法 图片 ![图片alt](图片地址 &#39;&#39;图片title&#39;&#39;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 引用 在引用的文字前加&amp;gt;即可。引用也可以嵌套，如加两个&amp;gt;&amp;gt;三个&amp;gt;&amp;gt;&amp;gt; n个&amp;hellip; &amp;gt;这是引用的内容 &amp;gt;&amp;gt;这是引用的内容 &amp;g</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Sun, 28 Apr 2019 15:53:41 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E8%84%9A%E6%9C%AC/</guid>
-      <description>自动部署脚本 #!/bin/bash if [ $# -lt 1 ]; then echo &amp;quot;$0 &amp;lt;commit message&amp;gt;&amp;quot; exit 1 fi msg=&amp;quot;$1&amp;quot; git commit -m &amp;quot;$msg&amp;quot; if [ $? -ne 0 ]; then echo &amp;quot;Commit failed&amp;quot; exit 1 fi git push origin master if [ $? -ne 0 ]; then echo &amp;quot;Push failed&amp;quot; fi echo -e &amp;quot;\033[0;32mDeploying updates to GitHub...\033[0m&amp;quot; # Build the project. hugo # if using a theme, replace with `hugo -t &amp;lt;YOURTHEME&amp;gt;` # Go To Public folder cd public # Add changes to git. git add . # Commit changes. git commit -m &amp;quot;$msg&amp;quot; # Push source and build repos. git push origin master # Come Back up to the Project Root cd .. Lorem Ipsum.</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Sun, 28 Apr 2019 15:13:41 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E9%83%A8%E7%BD%B2%E5%88%B0github/</guid>
-      <description>部署到github 配置git 用户 git config --global user.name &amp;quot;(NAME)&amp;quot; git config --global user.email &#39;(EMAIL)&#39; 创建 ssk ssh-keygen -t rsa -C &amp;quot;(EMAIL)&amp;quot; 关联 将ssh/id_rsa 加到github 上 remote git remote add origin git@....git 上传 git add . git commit -m &#39;(tag)&#39; git push -u origin master 注意 远程库不能命名为[(你的名字)/库名]，否则打开github.io时只会出现index.html/README.md的内容，真正的位置在你生成的静态文件中（默认public,推荐docs目录） 正确做法： 在config.toml中加入 publiddir = &amp;quot;docs&amp;quot; 接着删</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Sun, 28 Apr 2019 13:46:55 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-04/%E4%BE%A7%E8%BE%B9%E6%A1%86%E6%B7%BB%E5%8A%A0%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/</guid>
-      <description>侧边框添加个人信息 操作一 将要隐藏的，不显示在侧边框的文件放在content根目录下 操作二 在 config.toml 中添加个人信息 name : 显示文字 identifier: 唯一标志 url ： 链接（本地或网络） [[menu.shortcuts]] name = &amp;quot;&amp;lt;i class=&#39;fab fa-github&#39;&amp;gt;&amp;lt;/i&amp;gt; Github repo&amp;quot; identifier = &amp;quot;ds&amp;quot; url = &amp;quot;https://github.com/matcornic/hugo-theme-learn&amp;quot; weight = 10 ## Lorem Ipsum.</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Sat, 04 May 2019 19:24:03 +0800</pubDate>
       
       <guid>https://lizhubin.github.io/lizhubin-blog/blog/2019-05/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B8%A9%E7%9A%84%E5%9D%91/</guid>
-      <description>Some Chapter title Lorem Ipsum.</description>
+      <description>{{ replace .TranslationBaseName &amp;lsquo;-&amp;rsquo; &amp;lsquo; &amp;rsquo; | title }}</description>
     </item>
     
   </channel>

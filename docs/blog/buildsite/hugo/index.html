@@ -498,9 +498,14 @@
       </ul>
     </div>
     
+    
+      <div class="view">
+        <img src="https://source.unsplash.com/collection/190727/1600x900" />
+      </div>
+    
 
     
-      Some Chapter title Lorem Ipsum.......
+      {{ replace .TranslationBaseName &#39;-&#39; &#39; &#39; | title }}
     
   </a>
 
@@ -552,9 +557,14 @@
       </ul>
     </div>
     
+    
+      <div class="view">
+        <img src="https://uploadbeta.com/api/pictures/random" />
+      </div>
+    
 
     
-      自动部署脚本 #!/bin/bash if [ $# -lt 1 ]; then echo &#34;$0 &lt;commit message&gt;&#34; exit 1 fi msg=&#34;$1&#34; git commit -m &#34;$msg&#34; if [ $? -ne 0 ]; then echo &#34;Commit failed&#34; exit 1 fi git push origin master if [ $? -ne 0 ]; then echo &#34;Push failed&#34; fi echo -e &#34;\033[0;32mDeploying updates to GitHub...\033[0m&#34; # Build the project. hugo # if using a theme, replace with `hugo -t &lt;YOURTHEME&gt;` # Go To Public folder cd public # Add changes to git. git add . # Commit changes. git commit -m &#34;$msg&#34; # Push source and build repos. git push origin master # Come Back up to the Project Root cd .. Lorem Ipsum.......
+      {{ replace .TranslationBaseName &#39;-&#39; &#39; &#39; | title }}
     
   </a>
 
@@ -606,9 +616,14 @@
       </ul>
     </div>
     
+    
+      <div class="view">
+        <img src="https://uploadbeta.com/api/pictures/random" />
+      </div>
+    
 
     
-      部署到github 配置git 用户 git config --global user.name &#34;(NAME)&#34; git config --global user.email &#39;(EMAIL)&#39; 创建 ssk ssh-keygen -t rsa -C &#34;(EMAIL)&#34; 关联 将ssh/id_rsa 加到github 上 remote git remote add origin git@....git 上传 git add . git commit -m &#39;(tag)&#39; git push -u origin master 注意 远程库不能命名为[(你的名字)/库名]，否则打开github.io时只会出现index.html/README.md的内容，真正的位置在你生成的静态文件中（默认public,推荐docs目录） 正确做法： 在config.toml中加入 publiddir = &#34;docs&#34; 接着删......
+      {{ replace .TranslationBaseName &#39;-&#39; &#39; &#39; | title }}
     
   </a>
 

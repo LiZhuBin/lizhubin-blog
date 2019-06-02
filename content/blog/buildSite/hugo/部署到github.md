@@ -5,6 +5,9 @@ weight = 5
 chapter = true
 tags =  ["hugo"]
 categories =  ["博客"]
+img = "https://uploadbeta.com/api/pictures/random"
+toc = true
+summary = "{{ replace .TranslationBaseName '-' ' ' | title }}"
 +++
 
 

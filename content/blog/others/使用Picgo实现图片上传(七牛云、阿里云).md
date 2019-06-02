@@ -4,6 +4,8 @@ date = 2019-05-04T23:51:35+08:00
 weight = 5
 chapter = true
 toc = true
+img = "https://uploadbeta.com/api/pictures/random"
+summary = "{{ replace .TranslationBaseName '-' ' ' | title }}"
 +++
 
 # 使用picgo 
